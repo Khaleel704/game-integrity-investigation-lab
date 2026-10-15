@@ -1,0 +1,501 @@
+player_id,account_age_days,region,platform,account_status
+P0001,461,NA,Console B,active
+P0002,1131,EU,PC,active
+P0003,576,NA,Console B,active
+P0004,361,LATAM,PC,active
+P0005,127,NA,PC,active
+P0006,957,NA,Console B,active
+P0007,819,LATAM,PC,active
+P0008,1844,APAC,PC,active
+P0009,658,LATAM,Console A,active
+P0010,1143,EU,PC,active
+P0011,1383,NA,PC,active
+P0012,1561,NA,Console A,active
+P0013,1413,APAC,PC,active
+P0014,1886,NA,Console A,active
+P0015,327,APAC,Console B,active
+P0016,1486,EU,Console B,active
+P0017,289,NA,Console B,active
+P0018,938,APAC,PC,active
+P0019,958,NA,Console A,active
+P0020,1143,LATAM,Console B,active
+P0021,1499,EU,Console A,active
+P0022,1460,EU,Console B,active
+P0023,1098,NA,Console B,active
+P0024,705,EU,PC,active
+P0025,1898,LATAM,Console A,active
+P0026,904,APAC,PC,active
+P0027,943,NA,Console A,active
+P0028,1648,APAC,PC,active
+P0029,869,APAC,PC,active
+P0030,2049,LATAM,Console B,active
+P0031,1884,EU,Console A,active
+P0032,576,EU,Console B,active
+P0033,1081,LATAM,Console B,active
+P0034,1640,APAC,PC,active
+P0035,571,LATAM,PC,active
+P0036,197,NA,PC,active
+P0037,660,LATAM,Console B,active
+P0038,265,LATAM,Console A,active
+P0039,1922,APAC,Console B,active
+P0040,52,NA,Console B,active
+P0041,1097,APAC,PC,active
+P0042,1207,LATAM,PC,active
+P0043,1863,NA,Console B,active
+P0044,1083,EU,Console B,active
+P0045,440,APAC,Console B,active
+P0046,2084,EU,PC,active
+P0047,1536,EU,Console B,active
+P0048,2177,NA,Console B,active
+P0049,1332,LATAM,PC,active
+P0050,463,APAC,Console A,active
+P0051,985,NA,PC,active
+P0052,327,NA,Console B,active
+P0053,1995,NA,Console B,active
+P0054,520,EU,Console B,active
+P0055,1951,EU,Console A,active
+P0056,2166,LATAM,PC,active
+P0057,828,APAC,Console A,active
+P0058,1534,LATAM,Console B,active
+P0059,1854,NA,PC,active
+P0060,925,NA,Console A,active
+P0061,91,EU,Console B,active
+P0062,907,NA,PC,active
+P0063,246,EU,PC,active
+P0064,133,APAC,PC,active
+P0065,2110,EU,Console A,active
+P0066,1993,EU,Console B,active
+P0067,546,LATAM,PC,active
+P0068,1942,LATAM,PC,active
+P0069,391,NA,Console B,active
+P0070,1770,APAC,Console A,active
+P0071,1688,LATAM,Console B,active
+P0072,226,NA,PC,active
+P0073,1654,APAC,PC,active
+P0074,1023,EU,PC,active
+P0075,1842,EU,Console A,active
+P0076,756,APAC,Console A,active
+P0077,1028,NA,Console A,active
+P0078,406,NA,Console B,active
+P0079,65,NA,PC,active
+P0080,686,LATAM,Console A,active
+P0081,1976,EU,Console A,active
+P0082,245,EU,Console A,active
+P0083,13,LATAM,Console A,active
+P0084,1868,APAC,Console A,active
+P0085,1998,EU,PC,active
+P0086,1220,EU,PC,active
+P0087,254,APAC,PC,active
+P0088,210,LATAM,Console B,active
+P0089,2180,EU,PC,active
+P0090,2085,NA,PC,active
+P0091,285,NA,Console B,active
+P0092,968,LATAM,PC,active
+P0093,1013,NA,Console B,active
+P0094,340,LATAM,Console B,active
+P0095,2146,APAC,Console A,active
+P0096,841,APAC,PC,active
+P0097,1092,LATAM,PC,active
+P0098,1233,LATAM,Console A,active
+P0099,302,NA,Console A,active
+P0100,414,NA,Console B,active
+P0101,878,APAC,PC,active
+P0102,1434,NA,PC,active
+P0103,1518,APAC,PC,active
+P0104,1799,APAC,Console B,active
+P0105,2171,NA,Console B,active
+P0106,1231,NA,PC,active
+P0107,1088,NA,PC,active
+P0108,641,APAC,Console A,active
+P0109,867,APAC,PC,active
+P0110,1086,LATAM,Console A,active
+P0111,213,NA,Console B,active
+P0112,1739,APAC,PC,active
+P0113,19,APAC,PC,active
+P0114,1077,EU,Console B,active
+P0115,1814,LATAM,Console B,active
+P0116,44,NA,PC,active
+P0117,615,NA,Console A,active
+P0118,611,LATAM,PC,active
+P0119,176,APAC,Console A,active
+P0120,168,APAC,PC,active
+P0121,1027,NA,Console A,active
+P0122,1669,EU,PC,active
+P0123,670,EU,Console A,active
+P0124,106,EU,Console B,active
+P0125,1365,LATAM,Console B,active
+P0126,1021,APAC,PC,active
+P0127,447,LATAM,PC,active
+P0128,1932,EU,PC,active
+P0129,1890,APAC,Console A,active
+P0130,937,EU,PC,active
+P0131,796,LATAM,Console A,active
+P0132,1146,NA,Console A,active
+P0133,1443,LATAM,Console B,active
+P0134,1361,NA,PC,active
+P0135,1074,EU,Console B,active
+P0136,1092,NA,PC,active
+P0137,1784,APAC,Console B,active
+P0138,1289,LATAM,Console B,active
+P0139,2099,NA,Console A,active
+P0140,783,APAC,PC,active
+P0141,1791,NA,Console B,active
+P0142,812,APAC,Console A,active
+P0143,291,APAC,Console B,active
+P0144,1290,NA,Console B,active
+P0145,1235,APAC,Console B,active
+P0146,1677,APAC,Console A,active
+P0147,1216,EU,PC,active
+P0148,1727,LATAM,Console B,active
+P0149,717,APAC,Console A,active
+P0150,6,APAC,Console A,active
+P0151,865,LATAM,Console B,active
+P0152,1324,LATAM,Console A,active
+P0153,1816,EU,Console B,active
+P0154,1943,EU,Console B,active
+P0155,352,APAC,Console B,active
+P0156,1377,NA,PC,active
+P0157,1276,EU,PC,active
+P0158,608,NA,PC,active
+P0159,1007,LATAM,Console B,active
+P0160,303,LATAM,Console A,active
+P0161,801,LATAM,Console A,active
+P0162,1641,EU,PC,active
+P0163,27,NA,Console A,active
+P0164,901,EU,Console B,active
+P0165,2126,LATAM,PC,active
+P0166,1025,NA,Console A,active
+P0167,551,LATAM,Console B,active
+P0168,2180,APAC,Console A,active
+P0169,2072,LATAM,Console B,active
+P0170,1831,EU,Console B,active
+P0171,1949,LATAM,Console A,active
+P0172,1017,APAC,Console B,active
+P0173,1989,EU,Console A,active
+P0174,1806,NA,Console B,active
+P0175,1175,EU,Console A,active
+P0176,1380,APAC,Console B,active
+P0177,335,EU,PC,active
+P0178,952,LATAM,Console B,active
+P0179,630,EU,PC,active
+P0180,1704,LATAM,Console A,active
+P0181,1913,LATAM,PC,active
+P0182,852,LATAM,Console A,active
+P0183,85,LATAM,Console A,active
+P0184,29,APAC,Console A,active
+P0185,1602,LATAM,Console B,active
+P0186,908,LATAM,PC,active
+P0187,1122,LATAM,Console A,active
+P0188,123,LATAM,Console A,active
+P0189,1661,EU,Console A,active
+P0190,527,NA,Console A,active
+P0191,116,NA,Console B,active
+P0192,1760,EU,Console A,active
+P0193,749,NA,Console A,active
+P0194,1557,APAC,PC,active
+P0195,1867,APAC,Console A,active
+P0196,1557,APAC,Console A,active
+P0197,1038,NA,Console A,active
+P0198,84,NA,Console A,active
+P0199,923,NA,Console B,active
+P0200,169,NA,PC,active
+P0201,821,NA,Console B,active
+P0202,629,EU,PC,active
+P0203,1944,NA,Console B,active
+P0204,897,LATAM,Console B,active
+P0205,1054,APAC,PC,active
+P0206,474,EU,Console A,active
+P0207,447,NA,Console A,active
+P0208,1542,LATAM,Console B,active
+P0209,817,NA,Console B,active
+P0210,999,NA,Console B,active
+P0211,1240,NA,Console B,active
+P0212,173,APAC,Console B,active
+P0213,1759,APAC,PC,active
+P0214,2077,APAC,PC,active
+P0215,1725,LATAM,PC,active
+P0216,1780,APAC,Console B,active
+P0217,1888,EU,Console A,active
+P0218,726,APAC,Console B,active
+P0219,1985,LATAM,Console A,active
+P0220,1104,APAC,PC,active
+P0221,359,APAC,Console A,active
+P0222,1003,LATAM,Console B,active
+P0223,1557,APAC,PC,active
+P0224,2029,APAC,PC,active
+P0225,2002,EU,Console A,active
+P0226,1063,APAC,Console A,active
+P0227,1136,NA,Console B,active
+P0228,787,NA,PC,active
+P0229,1669,LATAM,Console B,active
+P0230,989,LATAM,Console B,active
+P0231,2015,LATAM,PC,active
+P0232,386,APAC,PC,active
+P0233,1661,EU,Console A,active
+P0234,1516,LATAM,Console B,active
+P0235,2179,APAC,Console A,active
+P0236,1359,APAC,Console B,active
+P0237,1863,APAC,Console A,active
+P0238,1034,EU,PC,active
+P0239,793,APAC,PC,active
+P0240,2199,EU,PC,active
+P0241,891,LATAM,Console A,active
+P0242,2153,APAC,PC,active
+P0243,800,APAC,PC,active
+P0244,1483,EU,Console A,active
+P0245,62,EU,Console A,active
+P0246,191,NA,Console B,active
+P0247,1201,EU,Console B,active
+P0248,2015,NA,PC,active
+P0249,1169,LATAM,Console A,active
+P0250,1809,APAC,PC,active
+P0251,215,APAC,Console A,active
+P0252,472,NA,Console A,active
+P0253,2019,NA,Console B,active
+P0254,224,EU,PC,active
+P0255,1249,NA,PC,active
+P0256,490,LATAM,Console B,active
+P0257,929,LATAM,Console A,active
+P0258,1818,APAC,Console B,active
+P0259,1761,APAC,Console B,active
+P0260,251,NA,PC,active
+P0261,869,APAC,Console B,active
+P0262,337,EU,PC,active
+P0263,716,NA,PC,active
+P0264,15,LATAM,Console A,active
+P0265,1929,APAC,PC,active
+P0266,953,APAC,Console B,active
+P0267,1163,LATAM,PC,active
+P0268,961,APAC,Console B,active
+P0269,815,LATAM,PC,active
+P0270,925,EU,Console A,active
+P0271,587,NA,PC,active
+P0272,684,APAC,Console B,active
+P0273,1187,LATAM,PC,active
+P0274,1924,APAC,Console B,active
+P0275,1653,APAC,Console B,active
+P0276,2027,LATAM,PC,active
+P0277,168,LATAM,Console B,active
+P0278,1325,APAC,PC,active
+P0279,379,EU,Console B,active
+P0280,89,APAC,Console B,active
+P0281,169,EU,Console A,active
+P0282,2130,LATAM,Console A,active
+P0283,748,LATAM,Console B,active
+P0284,2019,NA,Console A,active
+P0285,1430,LATAM,Console A,active
+P0286,1320,NA,PC,active
+P0287,1355,LATAM,Console B,active
+P0288,2034,APAC,Console B,active
+P0289,1645,NA,Console A,active
+P0290,365,APAC,Console A,active
+P0291,1329,NA,Console A,active
+P0292,2112,NA,Console B,active
+P0293,1897,LATAM,PC,active
+P0294,773,APAC,Console B,active
+P0295,2046,LATAM,PC,active
+P0296,838,APAC,Console B,active
+P0297,541,APAC,Console A,active
+P0298,1990,NA,PC,active
+P0299,985,EU,Console A,active
+P0300,61,LATAM,PC,active
+P0301,925,NA,Console A,active
+P0302,486,EU,Console A,active
+P0303,1200,APAC,Console A,active
+P0304,1981,LATAM,PC,active
+P0305,1875,EU,Console A,active
+P0306,785,EU,PC,active
+P0307,1136,LATAM,Console A,active
+P0308,2084,APAC,PC,active
+P0309,1163,APAC,Console B,active
+P0310,2010,EU,Console A,active
+P0311,1988,APAC,Console A,active
+P0312,1550,LATAM,Console A,active
+P0313,777,EU,Console B,active
+P0314,1573,EU,Console A,active
+P0315,183,APAC,Console B,active
+P0316,1942,LATAM,Console A,active
+P0317,628,LATAM,PC,active
+P0318,522,APAC,PC,active
+P0319,1808,NA,Console B,active
+P0320,1876,NA,Console B,active
+P0321,595,LATAM,Console B,active
+P0322,637,NA,Console A,active
+P0323,1090,APAC,Console B,active
+P0324,1633,NA,Console A,active
+P0325,2190,LATAM,Console A,active
+P0326,2003,NA,Console B,active
+P0327,285,EU,Console B,active
+P0328,1182,EU,Console B,active
+P0329,375,LATAM,PC,active
+P0330,416,LATAM,PC,active
+P0331,1231,NA,PC,active
+P0332,1333,NA,Console A,active
+P0333,1473,APAC,Console A,active
+P0334,601,EU,Console B,active
+P0335,1692,EU,PC,active
+P0336,722,NA,Console B,active
+P0337,1571,EU,Console A,active
+P0338,591,EU,Console A,active
+P0339,1045,LATAM,Console A,active
+P0340,43,LATAM,Console A,active
+P0341,652,NA,Console A,active
+P0342,1420,APAC,Console B,active
+P0343,1742,APAC,Console A,active
+P0344,1242,EU,Console A,active
+P0345,1984,NA,PC,active
+P0346,1567,APAC,Console B,active
+P0347,1216,APAC,PC,active
+P0348,1626,APAC,PC,active
+P0349,205,LATAM,Console A,active
+P0350,947,APAC,PC,active
+P0351,783,APAC,Console B,active
+P0352,565,NA,Console B,active
+P0353,166,APAC,Console A,active
+P0354,141,APAC,Console B,active
+P0355,543,NA,Console A,active
+P0356,1343,LATAM,PC,active
+P0357,827,EU,Console B,active
+P0358,1503,APAC,PC,active
+P0359,1057,LATAM,Console A,active
+P0360,1392,NA,Console A,active
+P0361,313,EU,PC,active
+P0362,1632,APAC,PC,active
+P0363,1621,NA,Console A,active
+P0364,511,LATAM,Console A,active
+P0365,1078,LATAM,Console B,active
+P0366,1526,NA,Console B,active
+P0367,962,LATAM,PC,active
+P0368,1348,EU,Console B,active
+P0369,263,LATAM,Console B,active
+P0370,1242,LATAM,PC,active
+P0371,577,NA,PC,active
+P0372,1251,LATAM,PC,active
+P0373,403,EU,Console B,active
+P0374,560,LATAM,Console A,active
+P0375,1524,LATAM,Console B,active
+P0376,637,LATAM,Console B,active
+P0377,410,LATAM,Console B,active
+P0378,1676,APAC,PC,active
+P0379,1522,EU,Console A,active
+P0380,1826,EU,Console A,active
+P0381,411,APAC,Console B,active
+P0382,1474,NA,Console A,active
+P0383,1135,EU,PC,active
+P0384,1867,NA,Console B,active
+P0385,873,NA,PC,active
+P0386,1371,EU,PC,active
+P0387,845,NA,Console B,active
+P0388,853,EU,PC,active
+P0389,1350,EU,Console B,active
+P0390,16,APAC,PC,active
+P0391,537,APAC,PC,active
+P0392,455,NA,PC,active
+P0393,65,APAC,PC,active
+P0394,1331,NA,PC,active
+P0395,1091,NA,PC,active
+P0396,1729,NA,Console B,active
+P0397,265,LATAM,Console A,active
+P0398,1487,NA,Console A,active
+P0399,2068,EU,Console B,active
+P0400,182,APAC,Console A,active
+P0401,132,NA,Console A,active
+P0402,1650,LATAM,Console B,active
+P0403,447,LATAM,Console B,active
+P0404,1821,NA,PC,active
+P0405,1324,EU,PC,active
+P0406,521,APAC,Console B,active
+P0407,1336,LATAM,Console B,active
+P0408,2178,APAC,Console A,active
+P0409,2075,LATAM,PC,active
+P0410,473,EU,Console A,active
+P0411,1854,EU,Console A,active
+P0412,1393,LATAM,Console A,active
+P0413,1708,NA,Console A,active
+P0414,1753,APAC,Console B,active
+P0415,1049,APAC,PC,active
+P0416,1947,NA,PC,active
+P0417,354,NA,Console A,active
+P0418,400,APAC,PC,active
+P0419,250,APAC,Console B,active
+P0420,505,LATAM,Console A,active
+P0421,1737,NA,Console A,active
+P0422,1284,APAC,PC,active
+P0423,2083,EU,PC,active
+P0424,1980,EU,PC,active
+P0425,1439,APAC,PC,active
+P0426,1146,EU,Console A,active
+P0427,112,APAC,PC,active
+P0428,743,APAC,Console B,active
+P0429,1270,APAC,Console A,active
+P0430,30,EU,PC,active
+P0431,1646,NA,PC,active
+P0432,130,NA,Console B,active
+P0433,2177,EU,Console A,active
+P0434,1724,LATAM,Console A,active
+P0435,649,APAC,Console A,active
+P0436,1333,NA,PC,active
+P0437,642,EU,Console B,active
+P0438,208,NA,Console A,active
+P0439,1819,LATAM,Console A,active
+P0440,1815,LATAM,Console A,active
+P0441,887,NA,Console A,active
+P0442,1765,NA,Console A,active
+P0443,1998,APAC,PC,active
+P0444,908,LATAM,Console B,active
+P0445,229,NA,PC,active
+P0446,1239,EU,PC,active
+P0447,1051,APAC,Console A,active
+P0448,496,NA,Console A,active
+P0449,1768,EU,PC,active
+P0450,1562,EU,Console B,active
+P0451,1455,NA,Console A,active
+P0452,178,LATAM,PC,active
+P0453,1888,NA,Console A,active
+P0454,1763,LATAM,Console B,active
+P0455,1715,APAC,PC,active
+P0456,1664,NA,Console A,active
+P0457,708,LATAM,Console B,active
+P0458,1487,NA,Console A,active
+P0459,438,EU,Console A,active
+P0460,1645,NA,Console A,active
+P0461,1275,APAC,PC,active
+P0462,1369,EU,PC,active
+P0463,2095,NA,Console B,active
+P0464,2093,EU,Console A,active
+P0465,1443,EU,PC,active
+P0466,426,EU,Console A,active
+P0467,813,EU,Console B,active
+P0468,631,NA,PC,active
+P0469,2028,LATAM,Console B,active
+P0470,1843,APAC,Console B,active
+P0471,1299,EU,Console A,active
+P0472,284,LATAM,Console A,active
+P0473,1245,APAC,Console B,active
+P0474,235,APAC,Console B,active
+P0475,308,APAC,Console A,active
+P0476,1856,NA,PC,active
+P0477,1515,APAC,PC,active
+P0478,374,LATAM,Console A,active
+P0479,173,LATAM,Console B,active
+P0480,776,APAC,Console B,active
+P0481,1953,EU,PC,active
+P0482,1850,NA,Console A,active
+P0483,350,EU,PC,active
+P0484,1019,LATAM,Console A,active
+P0485,2151,EU,Console A,active
+P0486,1532,APAC,Console A,active
+P0487,1679,APAC,Console B,active
+P0488,219,APAC,PC,active
+P0489,1355,NA,Console B,active
+P0490,1588,APAC,Console A,active
+P0491,620,APAC,PC,active
+P0492,584,APAC,Console A,active
+P0493,1610,EU,Console B,active
+P0494,352,APAC,Console B,active
+P0495,1547,APAC,PC,active
+P0496,2161,NA,Console B,active
+P0497,1739,APAC,PC,active
+P0498,1490,APAC,PC,active
+P0499,882,APAC,Console A,active
+P0500,791,EU,PC,active
