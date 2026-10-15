@@ -1,6 +1,6 @@
-Game Integrity Investigation Lab
+## Game Integrity Investigation Lab
 Behavioral Telemetry Analysis | Security Investigations | Detection Evaluation
-Overview
+## Overview
 
 The Game Integrity Investigation Lab is a security analytics project designed to investigate suspicious gameplay behavior using synthetic multiplayer game telemetry.
 
@@ -10,7 +10,7 @@ Rather than treating individual metrics as definitive evidence, the investigatio
 
 This project uses synthetic data and is not affiliated with or based on proprietary data from Sony Interactive Entertainment or PlayStation.
 
-Research Questions
+## Research Questions
 Which gameplay behaviors are most useful for identifying potentially suspicious players?
 How can SQL investigations combine player statistics, gameplay events, and detection alerts into an evidence-based assessment?
 What are the trade-offs between conservative detection rules and more sensitive event-level detection?
@@ -35,7 +35,7 @@ SQLite — Local database analysis.
 
 Adjust this list to reflect the libraries and tools actually used in the repository.
 
-Key Findings
+## Key Findings
 Baseline Detector
 
 The baseline detector produced the following results on the synthetic dataset:
@@ -97,7 +97,7 @@ The objective is not to automatically declare a player guilty, but to identify c
 
 ## Project Report
 
-[Read the Investigation Report](reports/game-integrity-investigation-report.pdf)
+[Read the Investigation Report](reports/game_integrity_investigation_portfolio_report.pdf)
 
 ## Visualizations
 
